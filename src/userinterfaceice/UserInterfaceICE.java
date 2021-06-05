@@ -11,6 +11,22 @@ public class UserInterfaceICE
      */
     public static void main(String[] args) 
     {
-        
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
+        //Random code goes here
     }
 }
